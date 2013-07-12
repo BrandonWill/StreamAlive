@@ -78,12 +78,6 @@ public class FileCreator {
                     "it will run the jar from the current location. This file is created everytime the jar " +
                     "is ran. So if you move the jar, just rerun it and replace the bat file in your startup" +
                     "folder. The startup folder is usually located at (replace YOUR_NAME): C:\\Users\\YOUR_NAME\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup \r\n");
-            fileWriter.write("\r\n");
-            fileWriter.write("Bugs:\r\n");
-            fileWriter.write("\r\n");
-            fileWriter.write("1. Newer streamers on twitch who don't save their videos give the script errors." +
-                    "These people will always be at the bottom of the script list and will not be alphabetized " +
-                    "with the rest. \r\n");
 
             fileWriter.close();
         } catch (Exception e) {

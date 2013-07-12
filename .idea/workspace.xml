@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8658b13e-444b-44a7-8fee-97545ab2e16e" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Owner\Dropbox\StreamAlive\RunStreamAlive.bat" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FileCreator.java" afterPath="$PROJECT_DIR$/src/FileCreator.java" />
     </list>
     <ignored path="StreamAlive.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,7 +17,7 @@
     <file path="/a.java" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1365832692044" ignored="false" />
     <file path="/a.cfm" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1365832700130" ignored="false" />
     <file path="/Dummy.txt" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1373648130646" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1373648394361" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1373649061274" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,10 +76,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GUI.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GUI.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="443" column="28" selection-start="20623" selection-end="20623" vertical-scroll-proportion="10.759863">
+            <state line="443" column="28" selection-start="20623" selection-end="20623" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -94,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileCreator.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="FileCreator.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FileCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="39" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
+            <state line="79" column="188" selection-start="3460" selection-end="3460" vertical-scroll-proportion="0.79614323">
               <folding />
             </state>
           </provider>
@@ -145,9 +145,9 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/AzubuStream.java" />
         <option value="$PROJECT_DIR$/src/SystemTrayIcon.java" />
-        <option value="$PROJECT_DIR$/src/FileCreator.java" />
         <option value="$PROJECT_DIR$/src/GUI.java" />
         <option value="$PROJECT_DIR$/src/TwitchStream.java" />
+        <option value="$PROJECT_DIR$/src/FileCreator.java" />
       </list>
     </option>
   </component>
@@ -368,7 +368,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -387,8 +387,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24744377" sideWeight="0.6463022" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35369775" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24744377" sideWeight="0.6463022" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35369775" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -527,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="39" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AzubuStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="18" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.0">
@@ -548,13 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwitchStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="27" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="90" column="2" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0">
@@ -562,9 +548,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwitchStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="27" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="443" column="28" selection-start="20623" selection-end="20623" vertical-scroll-proportion="10.759863">
+        <state line="443" column="28" selection-start="20623" selection-end="20623" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="188" selection-start="3460" selection-end="3460" vertical-scroll-proportion="0.79614323">
           <folding />
         </state>
       </provider>
