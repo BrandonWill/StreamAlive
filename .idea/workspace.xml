@@ -16,7 +16,7 @@
     <file path="/FileCreator.java" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1371528329115" ignored="false" />
     <file path="/a.java" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1365832692044" ignored="false" />
     <file path="/a.cfm" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1365832700130" ignored="false" />
-    <file path="/Dummy.txt" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1373648065404" ignored="false" />
+    <file path="/Dummy.txt" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1373648130646" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,6 +243,7 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
@@ -357,7 +358,11 @@
       <created>1373648083250</created>
       <updated>1373648083250</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Everything">
+      <created>1373648136650</created>
+      <updated>1373648136650</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
