@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8658b13e-444b-44a7-8fee-97545ab2e16e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\Owner\Dropbox\StreamAlive\RunStreamAlive.bat" afterPath="" />
     </list>
     <ignored path="StreamAlive.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,6 +17,7 @@
     <file path="/a.java" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1365832692044" ignored="false" />
     <file path="/a.cfm" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1365832700130" ignored="false" />
     <file path="/Dummy.txt" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1373648130646" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="8658b13e-444b-44a7-8fee-97545ab2e16e" time="1373648394361" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,19 +76,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GUI.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GUI.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="443" column="28" selection-start="20623" selection-end="20623" vertical-scroll-proportion="0.0">
+            <state line="443" column="28" selection-start="20623" selection-end="20623" vertical-scroll-proportion="10.759863">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="4" selection-start="1973" selection-end="1973" vertical-scroll-proportion="0.37907377">
+            <state line="90" column="2" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -554,16 +555,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GUI.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="443" column="28" selection-start="20623" selection-end="20623" vertical-scroll-proportion="0.0">
+        <state line="90" column="2" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/GUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="4" selection-start="1973" selection-end="1973" vertical-scroll-proportion="0.37907377">
+        <state line="443" column="28" selection-start="20623" selection-end="20623" vertical-scroll-proportion="10.759863">
           <folding />
         </state>
       </provider>
