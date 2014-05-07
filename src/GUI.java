@@ -273,8 +273,8 @@ public class GUI extends JFrame {
      */
     private void jButton5ActionPerformed() {
         String identityOfStreamer = JOptionPane.showInputDialog(null, "Enter the streamer's ID.\n" +
-                "Riot games url is: http://www.azubu.tv/channel/live_small.do?cn_id=2125982449001&vod_id=\n"  +
-                "Riot games ID is: 2125982449001");
+                "Riot games url is: http://beta.azubu.tv/riotgames\n"  +
+                "Riot games ID is: riotgames");
         String nameOfStreamer = JOptionPane.showInputDialog(null, "Enter the name of the streamer: ");
         if (identityOfStreamer.isEmpty()) { return; }
         if (nameOfStreamer.isEmpty()) { return; }

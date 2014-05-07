@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8658b13e-444b-44a7-8fee-97545ab2e16e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AzubuStream.java" afterPath="$PROJECT_DIR$/src/AzubuStream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GUI.java" afterPath="$PROJECT_DIR$/src/GUI.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StreamAlive.iws" />
@@ -67,10 +67,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GUI.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GUI.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7922">
+            <state line="269" column="50" selection-start="13223" selection-end="13223" vertical-scroll-proportion="-2.0348675" vertical-offset="5471" max-vertical-offset="7361">
               <folding />
             </state>
           </provider>
@@ -105,10 +105,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AzubuStream.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AzubuStream.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AzubuStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="30" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.5690377" vertical-offset="0" max-vertical-offset="3842">
+            <state line="32" column="60" selection-start="1119" selection-end="1119" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="3842">
               <folding />
             </state>
           </provider>
@@ -145,11 +145,11 @@
         <option value="$PROJECT_DIR$/src/TrayIcon.java" />
         <option value="$PROJECT_DIR$/StreamAliveData.txt" />
         <option value="$PROJECT_DIR$/src/SystemTrayIcon.java" />
-        <option value="$PROJECT_DIR$/src/GUI.java" />
         <option value="$PROJECT_DIR$/src/FileCreator.java" />
         <option value="$PROJECT_DIR$/src/TwitchStream.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/AzubuStream.java" />
+        <option value="$PROJECT_DIR$/src/GUI.java" />
       </list>
     </option>
   </component>
@@ -219,6 +219,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="StreamAlive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StreamAlive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StreamAlive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -510,7 +524,7 @@
       <changelist id="8658b13e-444b-44a7-8fee-97545ab2e16e" name="Default" comment="" />
       <created>1364409718032</created>
       <updated>1364409718032</updated>
-      <workItem from="1399431563627" duration="904000" />
+      <workItem from="1399431563627" duration="1004000" />
     </task>
     <task id="LOCAL-00001" summary="Everything">
       <created>1373648083250</created>
@@ -524,15 +538,19 @@
       <created>1399432336474</created>
       <updated>1399432336474</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated to handle beta.azubu.tv&#10;">
+      <created>1399432507190</created>
+      <updated>1399432507190</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="904000" />
+    <option name="totallyTimeSpent" value="1004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -553,7 +571,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16527778" sideWeight="0.6463022" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16527778" sideWeight="0.6463022" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35369775" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -577,7 +595,8 @@
     </option>
     <MESSAGE value="Everything" />
     <MESSAGE value="Updating to beta.azubu.tv&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating to beta.azubu.tv&#10;" />
+    <MESSAGE value="Updated to handle beta.azubu.tv&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated to handle beta.azubu.tv&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -706,13 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7922">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="51" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="3757">
@@ -731,7 +743,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AzubuStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="30" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.5690377" vertical-offset="0" max-vertical-offset="3842">
+        <state line="32" column="60" selection-start="1119" selection-end="1119" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="3842">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="269" column="50" selection-start="13223" selection-end="13223" vertical-scroll-proportion="-2.0348675" vertical-offset="5471" max-vertical-offset="7361">
           <folding />
         </state>
       </provider>
