@@ -177,7 +177,7 @@ public class AzubuStream {
                     br.close();
                 } catch (final IOException e) {
                     if (SystemTrayIcon.getErrorNotifications() && !e.getMessage().contains("503") && streamName.contains(streamerName)) {
-                        SystemTrayIcon.trayIcon.displayMessage("ERROR!", streamerName + " had an error while obtaining info!\n" +
+                        SystemTrayIcon.trayIcon.displayMessage("Azubu: ERROR!", streamerName + " had an error while obtaining info!\n" +
                             "Make sure stream information is correct! May be a false if it doesn't repeat!\n" +
                             "Remove stream to fix this problem if it does repeat!", TrayIcon.MessageType.ERROR);
                     }

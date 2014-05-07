@@ -25,7 +25,7 @@ public class SystemTrayIcon {
             try {
                 UIManager.setLookAndFeel(UIManager.getCrossPlatformLookAndFeelClassName());
             } catch (Exception ignored) {
-                System.out.println("Shit nigga AINT NOTHIN GONNA RUN ON DIS BITCH");
+                System.out.println("Nothing going to run");
             }
         } catch (IllegalAccessException ex) {
             ex.printStackTrace();
@@ -163,7 +163,7 @@ public class SystemTrayIcon {
     //Obtain the image URL
     protected static Image createImage(String path, String description) {
         URL imageURL = SystemTrayIcon.class.getResource(path);
-        System.out.println(SystemTrayIcon.class.getResource(path));
+        System.out.println("Image creation class reference: " +SystemTrayIcon.class.getResource(path));
 
         if (imageURL == null) {
             System.err.println("Resource not found: " + path);

@@ -155,7 +155,7 @@ public class TwitchStream {
                         }
                         if (input.contains("'" +streamID +"' does not exist")) {
                             if (SystemTrayIcon.getErrorNotifications()) {
-                                SystemTrayIcon.trayIcon.displayMessage("ERROR!", streamerName + " does NOT exist!\n" +
+                                SystemTrayIcon.trayIcon.displayMessage("TWITCH: ERROR!", streamerName + " does NOT exist!\n" +
                                         "Make sure the streamers id is correct!\n" +
                                         "This message should NOT repeat or even be called if it is correct.", TrayIcon.MessageType.ERROR);
                             }
