@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8658b13e-444b-44a7-8fee-97545ab2e16e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AzubuStream.java" afterPath="$PROJECT_DIR$/src/AzubuStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TwitchStream.java" afterPath="$PROJECT_DIR$/src/TwitchStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StreamAlive.iws" />
@@ -110,7 +108,7 @@
       <file leaf-file-name="AzubuStream.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AzubuStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="236" selection-end="236" vertical-scroll-proportion="0.16596931" vertical-offset="0" max-vertical-offset="3910">
+            <state line="29" column="30" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.5690377" vertical-offset="0" max-vertical-offset="3842">
               <folding />
             </state>
           </provider>
@@ -512,7 +510,7 @@
       <changelist id="8658b13e-444b-44a7-8fee-97545ab2e16e" name="Default" comment="" />
       <created>1364409718032</created>
       <updated>1364409718032</updated>
-      <workItem from="1399431563627" duration="726000" />
+      <workItem from="1399431563627" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="Everything">
       <created>1373648083250</created>
@@ -522,15 +520,19 @@
       <created>1373648136650</created>
       <updated>1373648136650</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updating to beta.azubu.tv&#10;">
+      <created>1399432336474</created>
+      <updated>1399432336474</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="726000" />
+    <option name="totallyTimeSpent" value="904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -545,18 +547,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31350482" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16527778" sideWeight="0.6463022" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16527778" sideWeight="0.6463022" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35369775" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31350482" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -574,7 +576,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Everything" />
-    <option name="LAST_COMMIT_MESSAGE" value="Everything" />
+    <MESSAGE value="Updating to beta.azubu.tv&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating to beta.azubu.tv&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -728,7 +731,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AzubuStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="236" selection-end="236" vertical-scroll-proportion="0.16596931" vertical-offset="0" max-vertical-offset="3910">
+        <state line="29" column="30" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.5690377" vertical-offset="0" max-vertical-offset="3842">
           <folding />
         </state>
       </provider>

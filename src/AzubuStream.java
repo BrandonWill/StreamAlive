@@ -11,8 +11,8 @@ import java.util.ArrayList;
  * Time: 2:54 PM
  */
 public class AzubuStream {
-    public static final String STREAM_URL = "http://www.azubu.tv/channel/live_small.do?cn_id=";
-    public static final String STREAM_ALIVE_CHECK = "http://image.azubu.tv/static/images/channels/live_check.png";
+    public static final String STREAM_URL = "http://beta.azubu.tv/";
+    public static final String STREAM_ALIVE_CHECK = "<div id=\"pulsar\"><div id=\"channel_live\">&nbsp;LIVE&nbsp;</div></div>";
     private static volatile ArrayList<String> streamList = new ArrayList<>();
     private static volatile ArrayList<String> streamName = new ArrayList<>();
     private static volatile ArrayList<Boolean> streamAlive = new ArrayList<>();
@@ -28,11 +28,7 @@ public class AzubuStream {
 
     //TODO remove
     public AzubuStream() {
-//        addStream("2125982481001", "CLG Aphromoo");
-//        addStream("2129985133001", "Riot Games");
-//        addStream("2125982474001", "CLG Doublelift");
-//        addStream("2125982467001", "CLG HotshotGG");
-//        addStream("2125982469001", "CLG Chauster");
+        addStream("riotgames", "Riot Games");
 
         areStreamsUp();
     }
