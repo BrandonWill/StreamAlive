@@ -1,4 +1,3 @@
-import javax.swing.*;
 import java.awt.*;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -177,15 +176,15 @@ public class AzubuStream {
                     }
                     br.close();
                 } catch (final IOException e) {
-                    if (SystemTrayIcon.getErrorNotifications() && !e.getMessage().contains("503") && streamName.contains(streamerName)) {
-                        SystemTrayIcon.trayIcon.displayMessage("Azubu: ERROR!", streamerName + " had an error while obtaining info!\n" +
-                            "Make sure stream information is correct! May be a false if it doesn't repeat!\n" +
-                            "Remove stream to fix this problem if it does repeat!", TrayIcon.MessageType.ERROR);
-                        JOptionPane.showMessageDialog(null, e.getMessage());
-                    }
-                    if (!streamName.contains(streamerName)) {
-                        interrupt();
-                    }
+//                    if (SystemTrayIcon.getErrorNotifications() && !e.getMessage().contains("503") && streamName.contains(streamerName)) {
+//                        SystemTrayIcon.trayIcon.displayMessage("Azubu: ERROR!", streamerName + " had an error while obtaining info!\n" +
+//                            "Make sure stream information is correct! May be a false if it doesn't repeat!\n" +
+//                            "Remove stream to fix this problem if it does repeat!", TrayIcon.MessageType.ERROR);
+//                        JOptionPane.showMessageDialog(null, e.getStackTrace());
+//                    }
+//                    if (!streamName.contains(streamerName)) {
+//                        interrupt();
+//                    }
                 }
 
                 try {
