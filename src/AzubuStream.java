@@ -173,8 +173,7 @@ public class AzubuStream {
                             if (SystemTrayIcon.getStreamNotifications())
                                 SystemTrayIcon.trayIcon.displayMessage("LoL Stream List", streamerName + " went offline", TrayIcon.MessageType.INFO);
                         }
-                    }
-                    br.close();
+                    }                         br.close();
                 } catch (final IOException e) {
 //                    if (SystemTrayIcon.getErrorNotifications() && !e.getMessage().contains("503") && streamName.contains(streamerName)) {
 //                        SystemTrayIcon.trayIcon.displayMessage("Azubu: ERROR!", streamerName + " had an error while obtaining info!\n" +

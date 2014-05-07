@@ -109,7 +109,7 @@
       <file leaf-file-name="AzubuStream.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AzubuStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="175" column="26" selection-start="6738" selection-end="6738" vertical-scroll-proportion="0.34442836" vertical-offset="2652" max-vertical-offset="3859">
+            <state line="170" column="26" selection-start="6272" selection-end="6272" vertical-scroll-proportion="0.22141823" vertical-offset="2652" max-vertical-offset="3842">
               <folding />
             </state>
           </provider>
@@ -511,7 +511,7 @@
       <changelist id="8658b13e-444b-44a7-8fee-97545ab2e16e" name="Default" comment="" />
       <created>1364409718032</created>
       <updated>1364409718032</updated>
-      <workItem from="1399431563627" duration="3486000" />
+      <workItem from="1399431563627" duration="3710000" />
     </task>
     <task id="LOCAL-00001" summary="Everything">
       <created>1373648083250</created>
@@ -541,11 +541,15 @@
       <created>1399433807093</created>
       <updated>1399433807093</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Connection errors due to bad internet. Commentated out Azubu's code">
+      <created>1399435098633</created>
+      <updated>1399435098633</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3486000" />
+    <option name="totallyTimeSpent" value="3710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
@@ -627,7 +631,8 @@
     <MESSAGE value="Updated description for users for azubu" />
     <MESSAGE value="More descriptive errors" />
     <MESSAGE value="Added better debugging" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added better debugging" />
+    <MESSAGE value="Connection errors due to bad internet. Commentated out Azubu's code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Connection errors due to bad internet. Commentated out Azubu's code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -781,7 +786,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AzubuStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="26" selection-start="6738" selection-end="6738" vertical-scroll-proportion="0.34442836" vertical-offset="2652" max-vertical-offset="3859">
+        <state line="170" column="26" selection-start="6272" selection-end="6272" vertical-scroll-proportion="0.22141823" vertical-offset="2652" max-vertical-offset="3842">
           <folding />
         </state>
       </provider>
