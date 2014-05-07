@@ -1,3 +1,4 @@
+import javax.swing.*;
 import java.awt.*;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -28,7 +29,7 @@ public class AzubuStream {
 
     //TODO remove
     public AzubuStream() {
-        addStream("riotgames", "Riot Games");
+//        addStream("riotgames", "Riot Games");
 
         areStreamsUp();
     }
@@ -180,6 +181,7 @@ public class AzubuStream {
                         SystemTrayIcon.trayIcon.displayMessage("Azubu: ERROR!", streamerName + " had an error while obtaining info!\n" +
                             "Make sure stream information is correct! May be a false if it doesn't repeat!\n" +
                             "Remove stream to fix this problem if it does repeat!", TrayIcon.MessageType.ERROR);
+                        JOptionPane.showMessageDialog(null, e.getMessage());
                     }
                     if (!streamName.contains(streamerName)) {
                         interrupt();

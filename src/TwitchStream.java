@@ -1,3 +1,4 @@
+import javax.swing.*;
 import java.awt.*;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -174,7 +175,9 @@ public class TwitchStream {
                     }
                     br.close();
 
-                } catch (IOException ignored) {}
+                } catch (IOException e) {
+                    JOptionPane.showMessageDialog(null, e.getMessage());
+                }
 
                 try {
                     Thread.sleep(timeInMinutes(1));
