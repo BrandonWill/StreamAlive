@@ -124,6 +124,9 @@ public class AzubuStream {
             streamerName = name;
         }
 
+        /**
+         * Updates the array size
+         */
         private void fixArray() {
             if (streamAlive.size() < streamName.size()) {
                 streamAlive.add(false);
@@ -204,10 +207,18 @@ public class AzubuStream {
         return streamName;
     }
 
+    /**
+     *
+     * @return the list of currently online users
+     */
     public static ArrayList getCurrentlyOnline() {
         return currentlyOnline;
     }
 
+    /***
+     *Gets the list of all the streams and determines if a stream is alive.
+     * @return true if yes, false if no
+     */
     public static ArrayList<Boolean> getStreamAlive() {
         return streamAlive;
     }
